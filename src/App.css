@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  background-color: antiquewhite;
+  height: 100vh;
+}
+.App{
+width: 50%;
+  margin: auto;
+  padding-top: 10em;
+
+}
+.header{
+  text-align: center;
+}
+
+.image{
+  width: 7em;
+}
+.card{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.left{
+  background-color: rgba(5,48,103,255);
+  padding: 1em;
+}
+.left,.right{
+  width: 50%;
+}
+.right{
+
+  padding: 2em;
+  background-color: rgb(216, 228, 238);
+}
+
+.name,.email,.cell{
+  color: aliceblue;
+}
+.name,.email,.cell,.address-deatils{
+  display: flex;
+}
+
+.refresh{
+  width: 10em;
+  height: 3em;
+  border: none;
+  background-color:rgb(105, 219, 105);
+  color: aliceblue;
+  cursor: pointer;
+}
