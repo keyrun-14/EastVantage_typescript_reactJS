@@ -35,3 +35,6 @@ not page load) to fetch another user with the same endpoint.
 ![](src/male-card.png)
 
 ![](src/female-card.png)
+
+### you can visit this site and try  which is deployed 
+  [https://eastvantage-typescript-reactjs.pages.dev/](https://eastvantage-typescript-reactjs.pages.dev/)
